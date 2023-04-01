@@ -6,6 +6,12 @@ To get started, simply install the GoStraightToJail extension for your favorite 
 
 But what happens if you're not in compliance? Well, that's where things get interesting. When you upload a regulation that you're not in compliance with, we'll send a notification to the SEC. And not just any notification - we'll send a notification that includes all of your personal information, including your name, address, and social security number. The SEC takes non-compliance very seriously, so you can expect a visit from them in the very near future.
 
-But don't worry, we're not heartless. We know that going to jail can be a scary experience, so we've included some helpful files to make your stay a little more comfortable. Just look for the <insertRegulation.jail> file and you'll find everything you need, from tips on how to make friends in prison to recipes for delicious prison meals.
+But don't worry, we're not heartless. We know that going to jail can be a scary experience, so we've included some helpful files to make your stay a little more comfortable. Just look for the .jail files in this repo and you'll find everything you need, from tips on how to make friends in prison to recipes for delicious prison meals.
 
-So what are you waiting for? Install Turbosrc, sign up for GoStraightToJail, and start tokenizing those SEC regulations. Your life may never be the same, but at least you'll know you're in compliance!
+So what are you waiting for? Signup for GoStraightToJail, and start tokenizing those SEC regulations. Your life may never be the same, but at least you'll know you're in compliance!
+
+## Contributing
+
+Please, just make a pull request. If you're not a coder, you can add tips and pointers for jail life by modifying or creating new .jail files.
+
+Happy April Fools Day!
