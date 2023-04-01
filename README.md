@@ -13,5 +13,3 @@ So what are you waiting for? Signup for GoStraightToJail, and start tokenizing t
 ## Contributing
 
 Please, just make a pull request. If you're not a coder, you can add tips and pointers for jail life by modifying or creating new .jail files.
-
-Happy April Fools Day!
